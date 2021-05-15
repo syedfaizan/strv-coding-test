@@ -1,0 +1,4 @@
+﻿{
+  "connectionString": "mongodb://localhost/strv-backend-assignment-db",
+  "secret": "qts6HEadLlD0zed9Krb1"
+}
