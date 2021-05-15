@@ -45,7 +45,7 @@
    ##### Request Headers
 
    ```
-   "Authorization": <Bearer Token>
+   "Authorization": Bearer <Bearer Token>
    ```
 
    ##### Response
