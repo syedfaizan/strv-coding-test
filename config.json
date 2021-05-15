@@ -1,4 +1,4 @@
 ﻿{
-  "connectionString": "mongodb://localhost/strv-backend-assignment-db",
+  "connectionString": "mongodb+srv://faizan-admin:Gs0ZK0AKXS4kny06@cluster0.dngv3.mongodb.net/strv-backend-assignment-db?retryWrites=true&w=majority",
   "secret": "qts6HEadLlD0zed9Krb1"
 }
